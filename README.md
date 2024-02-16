@@ -2,7 +2,7 @@
 - .prettierrc
 ```json
 {
-    "singleQuote": false,
+    "singleQuote": true,
     "semi": true,
     "useTabs": false,
     "tabWidth": 2,
@@ -35,3 +35,7 @@ or
 ```
 npm i react-router-dom sass styled-components classnames @loadable/component immer axios i18next react-i18next react-helmet-async
 ```
+
+# 초기 구성 - src/index.js
+- HelmetProvider
+- ..

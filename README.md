@@ -38,4 +38,4 @@ npm i react-router-dom sass styled-components classnames @loadable/component imm
 
 # 초기 구성 - src/index.js
 - HelmetProvider
-- ..
+- BrowserRouter
